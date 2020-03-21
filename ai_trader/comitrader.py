@@ -1,0 +1,2 @@
+class Comitrader:
+    pass
